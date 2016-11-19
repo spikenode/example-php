@@ -1,0 +1,6 @@
+{
+  "name": "PHP Example App for Spikenode Platform",
+  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "repository": "https://github.com/spikenode/example-php",
+  "addons": []
+}
